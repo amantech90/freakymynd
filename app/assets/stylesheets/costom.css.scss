@@ -1,0 +1,53 @@
+/* Scss Document */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.nav_items{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	
+	margin-top: 11px;
+}
+.bton{
+	text-transform: uppercase;
+	text-rendering: optimizeSpeed;
+	background-color: #19A0D8;
+	border: solid;
+	margin-right: 10px;
+	letter-spacing: -1.0px;
+	text-align: center
+}
+.navbar-default{
+	background-color:#03BB85
+} 
+#logo{
+	margin-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-stretch: condensed;
+	font-weight: bolder;
+}
+body{
+	margin-top: 100px;
+}
+.h1 .h2{
+	letter-spacing: -1px;
+}
+h1{
+	text-align: center;
+	text-overflow: clip;
+	font-size: 3emu
+}h2{
+text-align: center;
+	text-overflow: clip;
+	font-size: 3emu
+}
+footer{
+	
+	border: solid #9E9E9E;
+	margin-top: 30px;
+}
